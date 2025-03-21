@@ -1,6 +1,3 @@
-Below is the **README.md** file in its entirety. You can copy all of the text below into a local file named `README.md`. Depending on your editor or browser, you may also be able to right-click and "Save as..." to download it.
-
-```markdown
 # Tool Hub Aggregator
 
 ## Overview
@@ -198,4 +195,3 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## 9. License
 This project is licensed under the [MIT License](LICENSE). Feel free to use it for your own purposes.
-```
